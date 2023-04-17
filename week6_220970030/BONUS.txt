@@ -1,0 +1,20 @@
+Consider developing a database of new born babies at KMC maternity department with class name as NewBornBaby and attributes:
+	
+
+		
+babyID : String
+		
+weight : String
+		
+dob : Date
+		
+motherName : String
+		
+gender: char (F/M)
+	
+	
+
+
+Initially create a constructor with above parameters and insert minimum of 5 babies details. Next for the above class let us introduce two more attributes as bcg:date and polio:date which specifies the BCG and polio dates for the baby. Assume that BCG should be given on 45th day and polio in 3rd month after the baby’s birth. 
+
+Your application should take the baby’s ID and mother’s name as input and display the BCG and Polio date for respective baby. (Note: Display when the baby should be vaccinated)
